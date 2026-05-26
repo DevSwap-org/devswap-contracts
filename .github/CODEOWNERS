@@ -1,0 +1,9 @@
+# Default — security-critical contracts require maintainer review
+* @Hamdan0417
+
+# Source contracts — never merge without explicit review
+/src/             @Hamdan0417
+/script/          @Hamdan0417
+/test/            @Hamdan0417
+/foundry.toml     @Hamdan0417
+/remappings.txt   @Hamdan0417
