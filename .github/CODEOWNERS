@@ -1,9 +1,9 @@
-# Default — security-critical contracts require maintainer review
-* @Hamdan0417
+# Default — security-critical contracts require core-team review
+* @DevSwap-org/core
 
 # Source contracts — never merge without explicit review
-/src/             @Hamdan0417
-/script/          @Hamdan0417
-/test/            @Hamdan0417
-/foundry.toml     @Hamdan0417
-/remappings.txt   @Hamdan0417
+/src/             @DevSwap-org/core
+/script/          @DevSwap-org/core
+/test/            @DevSwap-org/core
+/foundry.toml     @DevSwap-org/core
+/remappings.txt   @DevSwap-org/core
